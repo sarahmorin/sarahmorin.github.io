@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sarahmorin
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - gwexploratoryaudits/r2b2
+  - sarahmorin/multivar_hypergeom
