@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: San Francisco, CA
+subtitle: San Francisco, CA  |  <a href='assets/pdf/SarahMorin_CV_12_2023.pdf'>Resume/CV</a>
 
 profile:
   align: right
