@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sarahmorin.github.io/al-folio/sitemap.xml
+Sitemap: https://sarahmorin.github.io/sitemap.xml
