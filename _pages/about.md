@@ -2,24 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: San Francisco, CA
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: # >
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
+posts: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Sarah. I am a Software Engineer and CS Researcher.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I earned my B.S. in Computer Science from The George Washington University. During my time as an undergraduate I
+worked as a Research Assistant for Professor Poorvi Vora and contributed to several publications on
+risk-limiting audits to statistically verify election outcomes. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+After graduating from GW, I joined Oracle as a Software Engineer on the File System Storage team of Oracle Cloud Infrastructure (OCI)
+where I was later promoted to Member of Technical Staff.
+
+I live in San Francisco with my partner, Gus, and our cats, Zuko (yes, as in Avatar: The Last
+Airbender) and Kiwi. In my free time I enjoy cooking, knitting/crocheting, and strength training. Although I
+have quite a few hobbies, there is nothing I enjoy more than learning and solving problems.
