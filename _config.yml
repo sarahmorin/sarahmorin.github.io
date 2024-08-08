@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: academic-website, portfolio-website # add your own keywords or leave empty
+keywords: academic-website, portfolio-website, computer-science, researcher # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -47,10 +47,10 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
-search_enabled: true
+footer_fixed: false 
+search_enabled: false 
 socials_in_search: true
-bib_search: true
+bib_search: false 
 
 # Dimensions
 max_width: 930px
@@ -131,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: sarah's blog # blog_name will be displayed in your blog page
-blog_description: sometimes I write things 
+blog_name: sarah's thoughts # blog_name will be displayed in your blog page
+blog_description: sometimes I write things down
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -160,7 +160,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: put your disqus shortname
+# disqus_shortname: put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
