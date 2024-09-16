@@ -6,7 +6,7 @@ subtitle: San Francisco, CA
 
 profile:
   align: right
-  image: profile_pic.png
+  image: Headshots_9-15-24_3.jpg
   image_circular: false # crops the image to make it circular
   more_info: # >
     # <p>555 your office number</p>
