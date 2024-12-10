@@ -6,3 +6,4 @@ repo_description_lines_max: 2
 github_repos:
   - gwexploratoryaudits/r2b2
   - sarahmorin/multivar_hypergeom
+  - sarahmorin/mls-stats

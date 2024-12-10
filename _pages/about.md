@@ -8,15 +8,12 @@ profile:
   align: right
   image: Headshots_9-15-24_3.jpg
   image_circular: false # crops the image to make it circular
-  more_info: # >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  more_info: # add location
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-posts: false 
+posts: false
 ---
 
 My name is Sarah. I am a CS Researcher and (former) Software Engineer.
@@ -25,7 +22,7 @@ My name is Sarah. I am a CS Researcher and (former) Software Engineer.
 
 My research interests lie (broadly) at the intersection of theory and systems. I believe we can improve the security, reliability, and performance of distributed systems using formal methods. These days, I’m fascinated by formal verification, high-level programming languages, and consensus protocols. Through my work, I hope to bridge the gap between powerful theoretical results and practical designs.
 
-Currently, I am collaborating with Prof. Gabe Parmer (George Washington University) to develop a low-level, systems optimized Datalog variant. The language will enable the declarative specification of low-level systems code and the compiler (built in Rust) will produce efficient, executable implementations. 
+Currently, I am collaborating with Prof. Gabe Parmer (George Washington University) to develop a low-level, systems optimized Datalog variant. The language will enable the declarative specification of low-level systems code and the compiler (built in Rust) will produce efficient, executable implementations.
 
 #### Background
 
