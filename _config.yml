@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: sarah's thoughts # blog_name will be displayed in your blog page
-blog_description: sometimes I write things down
+blog_description: sometimes I write
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -305,7 +305,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: [] # these tags will be displayed on the front page of your blog
-display_categories: ["lit-review"] # these categories will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
