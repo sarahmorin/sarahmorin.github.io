@@ -1,9 +1,11 @@
-"AJP":
+"USENIX Security":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  color: "#646881"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"VOTING 20":
+  url: https://fc20.ifca.ai/voting/cfp.html
+  color: "#646881"
 
-"Vision":
-  color: "#009f36"
+"VOTING 22":
+  url: https://fc22.ifca.ai/voting/cfp.html
+  color: "#646881"
